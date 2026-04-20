@@ -1,7 +1,3 @@
-Here’s a clean, GitHub-ready `README.md` in your voice—structured, concise, and polished for a project repo.
-
----
-
 # UMAPS Scholars Explorer
 
 An interactive data exploration app for the **University of Michigan African Presidential Scholars (UMAPS)** program. This tool allows users to explore scholar participation over time, filter by country and cohort, and analyze trends in the program’s global reach.
@@ -154,7 +150,3 @@ Academic Program Specialist, African Studies Center
 * University of Michigan African Studies Center
 * UMAPS Program
 * Data sources: internal alumni records + Qualtrics survey
-
----
-
-If you want, I can tighten this further for a portfolio version or add a “✨ Key Insight / Impact” section (which looks really strong for recruiters).
